@@ -8,8 +8,8 @@ With a zest for exploration, I am continuously exploring new knowledge and ready
 
 <br/> <br/>
 
-- 🔭 I’m currently working on C#, ASP.NET MVC5, ASP.NET Core, Angular JS, PHP, JS, HTML/CSS, Bootstrap
-- 🌱 I’m currently learning ASP>NET MVC Advance Concepts
+- 🔭 I’m currently working on Html, CSS, Javascript, Wordpress, Bootstrap, MS SQL Server
+- 🌱 I’m currently learning Php, Python, React js and Node js
 - 👯 I’m looking to collaborate on GitHub In INteresting Projects
 - 🤔 I’m looking for help with Passionate Developers
 - 💬 Ask me about Anything
