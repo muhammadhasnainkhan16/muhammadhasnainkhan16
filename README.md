@@ -6,7 +6,7 @@ I have been working on Web Development using Html, CSS, Javascript, Wordpress, B
 
 With a zest for exploration, I am continuously exploring new knowledge and ready to learn more. 
 
-<br/> <br/>
+<br/>
 
 ## Contact Me Via
 
