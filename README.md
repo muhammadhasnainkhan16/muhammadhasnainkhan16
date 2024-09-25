@@ -15,7 +15,7 @@ With a zest for exploration, I am continuously exploring new knowledge and ready
 - 💬 Ask me about Anything
 - 📫 How to reach me: LinkedIn,GitHub,INstagram
 
-<br/>
+<br/> <br/>
 
 ## Contact Me Via
 
